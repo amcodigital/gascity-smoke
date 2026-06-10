@@ -1,0 +1,16 @@
+issue-prefix: "gcspike"
+dolt.mode: "server"
+dolt.database: "beads_gcspike"
+export.auto: false
+export.git-add: false
+dolt.auto-push: false
+backup.enabled: false
+backup.git-push: false
+issue_prefix: gcspike
+dolt.auto-start: false
+gc.endpoint_origin: explicit
+gc.endpoint_status: unverified
+types.custom: molecule,convoy,message,event,gate,merge-request,agent,role,rig,session,spec,convergence,step
+dolt.host: 100.91.232.18
+dolt.port: 3308
+dolt.user: beads_gcspike

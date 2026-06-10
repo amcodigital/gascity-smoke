@@ -1,0 +1,9 @@
+{
+  "backend": "dolt",
+  "database": "dolt",
+  "dolt_database": "beads_gcspike",
+  "dolt_mode": "server",
+  "project_id": "92ff5d27-7c56-4537-8d4f-46da82348339",
+  "dolt_server_host": "100.91.232.18",
+  "dolt_server_user": "beads_gcspike"
+}
