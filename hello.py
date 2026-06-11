@@ -1,1 +1,1 @@
-print("hello from gascity smoke")
+print("hello from gas city")
